@@ -1,3 +1,4 @@
+// CLASSES PATTERNS
 // Classes constructor
 class Car {
   constructor(doors, engine, color) {

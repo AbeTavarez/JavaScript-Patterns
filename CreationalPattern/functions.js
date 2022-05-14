@@ -1,3 +1,4 @@
+// FUNCTIONS PATTERNS
 // Function as First Class Citizens
 // It means functions can be used as values
 const cal = () => {
